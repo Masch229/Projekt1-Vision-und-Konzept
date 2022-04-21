@@ -12,7 +12,7 @@
 
 ### Kontakte
 
-Christian Noss - christian.noss@th-koeln.de
-Alexander Dobrynin - alexander.dobrynin@th-koeln.de
-Simon Porten - simon.porten@th-koeln.de
+Christian Noss - christian.noss@th-koeln.de  
+Alexander Dobrynin - alexander.dobrynin@th-koeln.de  
+Simon Porten - simon.porten@th-koeln.de  
 
