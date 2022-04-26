@@ -15,3 +15,9 @@
 Christian Noss - christian.noss@th-koeln.de  
 Alexander Dobrynin - alexander.dobrynin@th-koeln.de  
 Simon Porten - simon.porten@th-koeln.de  
+
+
+### Ressourcen
+
+[Designsprint](https://koos.github.io/mi-master-vuk/) - Ressourcen Sammlung Jan Kus
+[Designsprint](https://designsprintkit.withgoogle.com/methodology/overview) 
