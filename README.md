@@ -3,6 +3,7 @@
 ## Termine
 
 - 26.04.22 16:30 **Startschuss** [Protokoll](./protokolle/00_Prot_26-04-22.md)
+- 04.05.22 12:00 **Meeting mit Stundenplan-Team** @CampusGM Raum: 3204
 - 04.05.22 14:00 **Bi-Weekly** @CampusGM [Tops](./protokolle/01_Prot_04-05-22.md) 
 - 11.05.22 14:00 **Review** @ZoomCN
 - 23.05.22 Ganztägig **vsl.Designsprint 1** @NochOffen
