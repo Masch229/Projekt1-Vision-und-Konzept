@@ -1,6 +1,6 @@
 # Design Sprint-Planung
 - Sprintleiter:
-  - Chris und Marius bzw. einer von beiden
+  - Chris und Marius
 - Abstract:
   - Konzeptionierung einer Ressourcenbuchungs- und Planungsanwendung im Kontext der TH-Köln
   - Für Mitarbeiter und Studenten
@@ -16,7 +16,7 @@ Aus zeitlichen und terminlichen Gründen werden wir nicht innerhalb einer ganzen
   - (1/2 Stunde) Interviews planen, Leitfaden für Interviews erstellen
   - (1 1/2) Erster grobe Skizzierung der Anwendung (Entsteht aus und während der Ideensammlung), hier dann verfeinern
 
-- Die Woche vom 16.05.:
+- Die Woche vom 16.05. bis 23.05.2022:
     - Interviews Ansetzen/Durchführen
     - weiteres sketching
     - Prototyp Ideen
@@ -25,7 +25,7 @@ Aus zeitlichen und terminlichen Gründen werden wir nicht innerhalb einer ganzen
   - Entscheidung und Festlegung
   - Start der Prototyp-Entwicklung
 
-- Zeitraum für Prototypentw.: TBD
+- Zeitraum für Prototypentw.: Ab 23.05.22 bis TBD
 - Zeitraum fürs Testing: TBD
 
 ## Tools
