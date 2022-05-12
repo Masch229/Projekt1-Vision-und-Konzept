@@ -10,25 +10,23 @@ Aus zeitlichen und terminlichen Gründen werden wir nicht innerhalb einer ganzen
 
 ## Zeitplan
 - Montag, den 16.05.2022: Ganztags KickOff in Person
-  - Überblick verschaffen mit Notizen aus dem Erstgespräch der Stakeholder (TH-Mitarbeiter)
-  - Ideensammlung über:
-    - Kontext, Interviewer, die zu Interviewenden, Anforderungen, Tech-Stack, etc.
-  - Möglicherweise erste Interviews
-  - Erster grobe Skizzierung der Anwendung
-- Montag Zeitplan im Detail:
-  - 10:00 Treffen
-  - 11:00 Pause
-  - 12:00 Bier
-  - Blackout
+  - (1/2 Stunde) Überblick verschaffen mit Notizen aus dem Erstgespräch der Stakeholder (TH-Mitarbeiter)
+  - (3 1/2 Stunden) Ideensammlung über:
+    - Kontext, Interviewer festlegen, die zu Interviewenden (Stakeholder definieren), Anforderungen, Tech-Stack, etc.
+  - (1/2 Stunde) Interviews planen, Leitfaden für Interviews erstellen
+  - (1 1/2) Erster grobe Skizzierung der Anwendung (Entsteht aus und während der Ideensammlung), hier dann verfeinern
+
 - Die Woche vom 16.05.:
-    - Interviews
+    - Interviews Ansetzen/Durchführen
     - weiteres sketching
     - Prototyp Ideen
-    - tbd
 
-- Montag, den 23.05.2022: Ganztags (hoffentlich)
-  - tbd 
-  - leads to Prototyp entwickeln? which leads to testing?
+- Montag, den 23.05.2022: Ganztags
+  - Entscheidung und Festlegung
+  - Start der Prototyp-Entwicklung
+
+- Zeitraum für Prototypentw.: TBD
+- Zeitraum fürs Testing: TBD
 
 ## Tools
  - [Miro Board](https://miro.com/app/board/o9J_kgMy_lc=/) - Brainstorming und Konzepte
