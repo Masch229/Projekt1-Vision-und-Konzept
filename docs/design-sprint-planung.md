@@ -12,24 +12,15 @@ Aus zeitlichen und terminlichen Gründen werden wir nicht innerhalb einer ganzen
 - Montag, den 16.05.2022: Ganztags KickOff in Person
   - (1/2 Stunde) Überblick verschaffen mit Notizen aus dem Erstgespräch der Stakeholder (TH-Mitarbeiter)
   - (3 1/2 Stunden) Ideensammlung über:
-    - Kontext, Interviewer festlegen, die zu Interviewenden (Stakeholder definieren), Anforderungen, Tech-Stack, etc.
+    - Kontext, Interviewer festlegen, Stakeholder definieren, Anforderungen, Tech-Stack, etc.
   - (1/2 Stunde) Interviews planen, Leitfaden für Interviews erstellen
-  - (1 1/2) Erster grobe Skizzierung der Anwendung (Entsteht aus und während der Ideensammlung), hier dann verfeinern
+  - (1 1/2) Erster grobe Skizzierung der Anwendung (Entsteht aus und während der Ideensammlung)
+  - (1h) Zeitplan für das Projekt im Semester
 
-- Die Woche vom 16.05. bis 23.05.2022:
-    - Interviews Ansetzen/Durchführen
-    - weiteres sketching
-    - Prototyp Ideen
-
-- Montag, den 23.05.2022: Ganztags
-  - Entscheidung und Festlegung
-  - Start der Prototyp-Entwicklung
-
-- Zeitraum für Prototypentw.: Ab 23.05.22 bis TBD
-- Zeitraum fürs Testing: TBD
+- Zeitplan für das Semester im [Figma](https://www.figma.com/file/DNjmGCVNuetzCjwzPV7ecP/Whiteboard?node-id=0%3A1)
 
 ## Tools
- - [Miro Board](https://miro.com/app/board/o9J_kgMy_lc=/) - Brainstorming und Konzepte
+ - Miro Board (Aus Lizenzgründen nicht mehr genutzt)
 
 - [Figma](https://www.figma.com/file/053NZq1L2kvTOmeXZW9iS0/P1-Vision-und-Konzept-team-library?node-id=0%3A1) - Wireframes und Designs
 - Whiteboard(s)
