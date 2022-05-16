@@ -20,12 +20,11 @@ Aus zeitlichen und terminlichen Gründen werden wir nicht innerhalb einer ganzen
   - (1/2 Stunde) Interviews planen, Leitfaden für Interviews erstellen
   - (1 1/2) Erster grobe Skizzierung der Anwendung (Entsteht aus und während der Ideensammlung)
 
-- Detaillierter Zeitplan für das Semester im [Figma](https://www.figma.com/file/DNjmGCVNuetzCjwzPV7ecP/Whiteboard?node-id=0%3A1)
+- Detaillierter Zeitplan und alles weitere wie TODOS etc. zu finden im [Figma](https://www.figma.com/file/DNjmGCVNuetzCjwzPV7ecP/Whiteboard?node-id=0%3A1)
 
 ## Tools
- - Miro Board (Aus Lizenzgründen nicht mehr genutzt)
-
-- [Figma](https://www.figma.com/file/053NZq1L2kvTOmeXZW9iS0/P1-Vision-und-Konzept-team-library?node-id=0%3A1) - Wireframes und Designs
+- Miro Board (Aus Lizenzgründen nicht mehr genutzt)
+- [Figma](https://www.figma.com/file/053NZq1L2kvTOmeXZW9iS0/P1-Vision-und-Konzept-team-library?node-id=0%3A1)
 - Whiteboard(s)
 - Sticky Notes
 - DinA4 Papier und Stifte
