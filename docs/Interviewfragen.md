@@ -12,13 +12,13 @@ finden sich unter **Interview Strukturplan**
 - Wie häufig benötigen Sie Räume (exkl. Vorlesungen)?
 - Wie reagieren Sie wenn eine andere Gruppe den gleichen Raum benötigt wie Sie?
 - Was würde Sie bei der Suche nach einem Raum unterstützen?
-- Welche Informationen benötigen Sie um einen passenden Raum zu finden?
+- Welche Informationen benötigen Sie, um einen passenden Raum zu finden?
 - Welche Ressourcen der Hochschule würden Sie gerne nutzen/buchen?
 - Welche Ressourcen der Hochschule würden Sie gerne anderen anbieten oder zur Verfügung stellen?
 - Gibt es eine Einschränkung der Nutzergruppe hinsichtlich der von Ihnen angebotenen Ressource?
 - Wie wird diese Einschränkung entschieden oder begründet?
 - Wo sind Ihre Ressourcen?
-- Was wäre für Sie wichtig um mit einem Raumbuchungssystem zu interagieren?
+- Was wäre für Sie wichtig, um mit einem Raumbuchungssystem zu interagieren?
 
 ### Geschlossene Fragen
 
@@ -41,9 +41,9 @@ finden sich unter **Interview Strukturplan**
 Empfohlene Fragen:
 
 - Wie gehen Sie vor wenn Sie einen Raum in der Hochschule nutzen wollen?
-- Welche Informationen benötigen Sie um einen passenden Raum zu finden?
+- Welche Informationen benötigen Sie, um einen passenden Raum zu finden?
 - Was würde Sie bei der Suche nach einem Raum unterstützen?
-- Was wäre für Sie wichtig um mit einem Raumbuchungssystem zu interagieren?
+- Was wäre für Sie wichtig, um mit einem Raumbuchungssystem zu interagieren?
 
 ###Geschlossene Fagen: ca. 5min
 
