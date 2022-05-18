@@ -10,7 +10,7 @@ finden sich unter **Interview Strukturplan**
 ### Offene Fragen
 - Wie gehen Sie vor wenn Sie einen Raum in der Hochschule nutzen wollen?
 - Wie häufig benötigen Sie Räume (exkl. Vorlesungen)?
-- Wie reagieren Sie wenn eine andere Gruppe den gleichen Raum benötigt wie Sie?
+- Wie reagieren Sie, wenn eine andere Gruppe den gleichen Raum benötigt wie Sie?
 - Was würde Sie bei der Suche nach einem Raum unterstützen?
 - Welche Informationen benötigen Sie, um einen passenden Raum zu finden?
 - Welche Ressourcen der Hochschule würden Sie gerne nutzen/buchen?
@@ -22,7 +22,7 @@ finden sich unter **Interview Strukturplan**
 
 ### Geschlossene Fragen
 
-- Wissen Sie wo welche Räume liegen?
+- Wissen Sie, wo welche Räume liegen?
 - Kennen und verstehen Sie die Raumnummerierung?
 - Fällt Ihnen die Orientierung auf dem Campus eher leicht oder eher schwer?
 - Hatten Sie bereits das Problem einen passenden Arbeitsraum zu finden?
@@ -49,7 +49,7 @@ Empfohlene Fragen:
 
 Empfohlene Fragen:
 
-- Wissen Sie wo welche Räume liegen?
+- Wissen Sie, wo welche Räume liegen?
 - Kennen und verstehen Sie die Raumnummerierung?
 - Fällt Ihnen die Orientierung auf dem Campus eher leicht oder eher schwer?
 - Hatten Sie bereits das Problem einen passenden Arbeitsraum zu finden?
