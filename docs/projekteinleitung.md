@@ -1,0 +1,7 @@
+# Projekteinleitung
+
+Das Leben kehrt an die TH Köln am Standort Gummersbach zurück. Immer mehr Module werden wieder in Präsenzlehre angeboten und Gruppen von Studierenden treffen sich wieder vor Ort um gemeinsam zu lernen oder an Projekten zu arbeiten. Mit dem erhöhten Aufkommen von Studierenden und Hochschulpersonal wird auch das Raummanagement wieder wichtiger.
+
+Lehrende benötigen Räume für Vorlesungen oder Seminare. Studierende suchen Räume zum gemeinsamen Lernen oder wollen das Hochschulequipment für ihre Projekte nutzen. Bislang waren Raum- und Belegungsplanung ausschließlich semestergenau. Im Rahmen von Veranstaltungen wurde ein Raum für einen festgelegten Zeit-Slot an einem Wochentag ein Semester lang blockiert. Fällt eine Veranstaltung aus oder beginnt Sie beispielsweise erst später im Semester, ist die Belegungsinformation vorübergehend falsch. Dieses und weitere Probleme bringt die aktuell ungenaue Planung mit sich.
+
+Im Rahmen eines internen Projektes will die TH Köln diese Planung neu erfinden und verbessern. Dafür wird in der ersten Phase die Anforderungen verschiedener Stakeholder ermittelt und anschließend ein Konzept ausgearbeitet. Wenn du diese Information liest, hast du vermutlich Kontaktpunkte zur Raumplanung und gehörst zu den Stakeholdern. Wir würden uns freuen, wenn du uns (dem Projektteam) von deinen Schmerzen, Ideen und Wünschen zu dem Thema berichtest. Gemeinsam können wir die Lösung entwerfen, die wir als Forschende, Lehrende und Studierende an der TH Köln benötigen. Wir freuen uns auf deinen Input!
