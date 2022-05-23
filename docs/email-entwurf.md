@@ -1,6 +1,6 @@
 Sehr geehrte/r Herr/Frau `*Name*`
 
-Das Leben kehrt an die TH Köln am Standort Gummersbach zurück. Immer mehr Module werden wieder in Präsenzlehre angeboten und Gruppen von Studierenden treffen sich wieder vor Ort um gemeinsam zu lernen oder an Projekten zu arbeiten. Mit dem erhöhten Aufkommen von Studierenden und Hochschulpersonal wird auch das Raummanagement wieder wichtiger.
+Das Leben kehrt an die TH Köln am Standort Gummersbach zurück. Immer mehr Module werden wieder in Präsenzlehre angeboten und Gruppen von Studierenden treffen sich wieder vor Ort, um gemeinsam zu lernen oder an Projekten zu arbeiten. Mit dem erhöhten Aufkommen von Studierenden und Hochschulpersonal wird auch das Raummanagement wieder wichtiger.
 
 Lehrende benötigen Räume für Vorlesungen oder Seminare. Studierende suchen Räume zum gemeinsamen Lernen oder wollen das Hochschulequipment für ihre Projekte nutzen. Bislang waren Raum- und Belegungsplanung ausschließlich semestergenau. Im Rahmen von Veranstaltungen wurde ein Raum für einen festgelegten Zeit-Slot an einem Wochentag ein Semester lang blockiert. Fällt eine Veranstaltung aus oder beginnt Sie beispielsweise erst später im Semester, ist die Belegungsinformation vorübergehend falsch. Dieses und weitere Probleme bringt die aktuell ungenaue Planung mit sich.
 
@@ -44,13 +44,13 @@ frank.victor@th-koeln.de
 wolfgang.konen@th-koeln.de 
 christian.noss@th-koeln.de 
 
-stephan.bente@th-koeln.de 
-mirjam.bluemm@th-kolen.de
+stefan.bente@th-koeln.de 
+mirjam.bluemm@th-koeln.de
 
 dietlind.zuehlke@th-koeln.de
 
 thomas.raser@th-koeln.de 
-simon.schulte@th-koeln.de 
+simon_ludwig.schulte@th-koeln.de
 simon.porten@th-koeln.de
 
 manfred.stern@th-koeln.de
