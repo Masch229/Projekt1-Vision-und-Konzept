@@ -14,7 +14,7 @@ Das Interview dauert ungefähr 20 Minuten und findet in Zoom/Teams/Discord statt
 
 Hier sind für die optimale Vorbereitung vorab die Fragen, die gestellt werden können.
 
-- Wie gehen Sie vor wenn Sie einen Raum in der Hochschule nutzen wollen?
+- Wie gehen Sie vor, wenn Sie einen Raum in der Hochschule nutzen wollen?
 - Welche Informationen benötigen Sie, um einen passenden Raum zu finden?
 - Was würde Sie bei der Suche nach einem Raum unterstützen?
 - Was wäre für Sie wichtig, um mit einem Raumbuchungssystem zu interagieren?
@@ -22,11 +22,11 @@ Hier sind für die optimale Vorbereitung vorab die Fragen, die gestellt werden k
 - Wissen Sie, wo welche Räume liegen?
 - Kennen und verstehen Sie die Raumnummerierung?
 - Fällt Ihnen die Orientierung auf dem Campus eher leicht oder eher schwer?
-- Hatten Sie bereits das Problem einen passenden Arbeitsraum zu finden?
-- Hatten Sie breites das Problem einen Arbeitsraum mit passenden Ressourcen zu finden?
+- Hatten Sie bereits das Problem, einen passenden Arbeitsraum zu finden?
+- Hatten Sie breites das Problem, einen Arbeitsraum mit passenden Ressourcen zu finden?
 
 
-Falls das Interview nichht zustande kommt, würden wir uns freuen, 
+Falls das Interview nicht zustande kommt, würden wir uns freuen, 
 wenn uns dennoch ein paar kurze Antworten auf die gestellten Fragen erreichen.
 
 Liebe Grüße
