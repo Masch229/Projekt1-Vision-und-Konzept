@@ -18,7 +18,12 @@ Aus zeitlichen und terminlichen Gründen werden wir nicht innerhalb einer ganzen
     - Interviewer festlegen
     - Anforderungen, Tech-Stack, etc.
   - (1/2 Stunde) Interviews planen, Leitfaden für Interviews erstellen
-  - (1 1/2) Erster grobe Skizzierung der Anwendung (Entsteht aus und während der Ideensammlung)
+
+- 16.05 - 01.06: Sprint 1 mit Interviews
+- 01.06 - 19.06: Sprint 2 Auswertung, Anforderungen
+- 19.06 - 03.07: Sprint 3 Feedback-Interviews
+- 03.07 - 16.07: Sprint 4 Prototyp
+- 16.07 - 16.09: Präsentation erstellen und Repo. aufräumen
 
 - Detaillierter Zeitplan und alles weitere wie TODOS etc. zu finden im [Figma](https://www.figma.com/file/DNjmGCVNuetzCjwzPV7ecP/Whiteboard?node-id=0%3A1)
 
