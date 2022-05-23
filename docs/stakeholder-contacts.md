@@ -7,7 +7,7 @@ Studierende  | Jan Koll  Patrick Albus  Valeria Orlova | 4 | jan.koll@smail.th-k
 Lehrende  | Frank Victor Wolfgang Konen Christian Noss        | 5       | frank.victor@th-koeln.de wolfgang.konen@th-koeln.de christian.noss@th-koeln.de 
 Institutsleitung   | Stephan Bente; Mirjam Blümm | 5      | stephan.bente@th-koeln.de mirjam.bluemm@th-kolen.de
 alte Ansprechpartner / Entwickler  | Dietlind Zühlke | 2 | dietlind.zuehlke@th-koeln.de
-Wissenschaftliche Mitarbeiter  | Thomas Raser; Simon Schulte; Simon porte        | 3       | thomas.raser@th-koeln.de simon.schulte@th-koeln.de simon.porten@th-koeln.de
+Wissenschaftliche Mitarbeiter  | Thomas Raser; Simon Schulte; Simon Porte        | 3       | thomas.raser@th-koeln.de simon.schulte@th-koeln.de simon.porten@th-koeln.de
 Neue Hochschulmitarbeiter   | ? | 1      | ?
 Eventorganisation  | Manfred Stern  | 4 | manfred.stern@th-koeln.de
 Pforte  | ?        | 3       | ?
