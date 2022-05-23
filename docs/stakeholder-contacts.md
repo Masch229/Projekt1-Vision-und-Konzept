@@ -3,7 +3,7 @@
 
 Rolle | Mögliche Interviewpartner | Priorität 1 (low) - 5 (high)      | Email-Adresse
 ------- | ---------------- | ---------- | ---------:
-Studierende  | Jan Koll  Patrick Albus  Valeria Orlova | 4 | jan.koll@smail.th-koeln.de  patrick.albus@smail.th-koeln.de  valeria.orlova@smail.th-koeln.de
+Studierende  | Jan Koll  Patrick Albus  Valeria Orlova | 4 | jan.koll@smail.th-koeln.de  patrick.albus@smail.th-koeln.de  	valeria_vladimirovna.orlova@smail.th-koeln.de
 Lehrende  | Frank Victor Wolfgang Konen Christian Noss        | 5       | frank.victor@th-koeln.de wolfgang.konen@th-koeln.de christian.noss@th-koeln.de 
 Institutsleitung   | Stephan Bente; Mirjam Blümm | 5      | stephan.bente@th-koeln.de mirjam.bluemm@th-kolen.de
 alte Ansprechpartner / Entwickler  | Dietlind Zühlke | 2 | dietlind.zuehlke@th-koeln.de
