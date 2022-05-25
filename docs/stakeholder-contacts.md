@@ -3,7 +3,6 @@
 
 Rolle | Mögliche Interviewpartner | Priorität 1 (low) - 5 (high)      | Email-Adresse
 ------- | ---------------- | ---------- | ---------:
-
 Lehrende | Frank Victor Wolfgang Konen Christian Noss      | 5      | frank.victor@th-koeln.de wolfgang.konen@th-koeln.de christian.noss@th-koeln.de 
 Institutsleitung   | Stephan Bente Mirjam Blümm | 5      | stefan.bente@th-koeln.de mirjam.bluemm@th-koeln.de
 Eventorganisation  | Manfred Stern  | 4 | manfred.stern@th-koeln.de
