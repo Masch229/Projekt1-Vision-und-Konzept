@@ -34,7 +34,7 @@ Chris, Marius, Tim, Bene, Yannic
 
 
 
-# (kommt nicht in die E-Mail)
+# Email-Liste (kommt nicht in die E-Mail)
 
 jan.koll@smail.th-koeln.de
 patrick.albus@smail.th-koeln.de  
@@ -58,3 +58,9 @@ manfred.stern@th-koeln.de
 uwe.muesse@th-koeln.de
 
 christian.kohls@th-koeln.de
+
+
+
+albert.hamidullin@th-koeln.de
+raphaela.groten@th-koeln.de
+ingeborg.rose@th-koeln.de
