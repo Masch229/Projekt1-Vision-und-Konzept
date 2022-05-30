@@ -3,13 +3,12 @@
 ## Termine
 
 - 26.04.22 16:30 **Startschuss** [Protokoll](./protokolle/00_Prot_26-04-22.md)
-- 04.05.22 12:00 **Meeting mit Stundenplan-Team** @CampusGM Raum: 3204
-- 04.05.22 14:00 **Bi-Weekly** @CampusGM [Tops](./protokolle/01_Prot_04-05-22.md) 
+- 04.05.22 12:00 **Meeting mit Stundenplan-Team** @CampusGM Raum: 3204  [Protokoll](./interviews/interview-Stundenplanteam.md)
+- 04.05.22 14:00 **Bi-Weekly** @CampusGM 
 - 11.05.22 14:00 **Review** @ZoomCN
-- 23.05.22 Ganztägig **vsl.Designsprint 1** @NochOffen
-- 18.05.22 14:00 **Bi-Weekly** @ZoomBE
-- 23.05.22 Ganztägig **vsl. Designsprint 2** @NochOffen
-- 25.05.22 14:00 **Review** @ZoomCN
+- 16.05.22 Ganztägig **vsl.Designsprint 1** @CampusGM [Protokoll](./protokolle/01_Prot_16-05-22.md) 
+- 18.05.22 14:00 **Bi-Weekly** @ZoomBE [Protokoll](./protokolle/02_Prot_18-05-22.md) 
+- 25.05.22 14:00 **Review** @ZoomCN [Protokoll](./protokolle/03_Prot_25-05-22.md)
 - 01.06.22 14:00 **Bi-Weekly** @ZoomBE
 - 08.06.22 14:00 **Review** @ZoomCN
 - 15.06.22 14:00 **Bi-Weekly** @ZoomBE
