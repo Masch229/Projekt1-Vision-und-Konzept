@@ -31,36 +31,3 @@ wenn uns dennoch ein paar kurze Antworten auf die gestellten Fragen erreichen.
 
 Liebe Grüße
 Chris, Marius, Tim, Bene, Yannic
-
-
-
-# Email-Liste (kommt nicht in die E-Mail)
-
-jan.koll@smail.th-koeln.de
-patrick.albus@smail.th-koeln.de  
-valeria_vladimirovna.orlova@smail.th-koeln.de
-
-frank.victor@th-koeln.de 
-wolfgang.konen@th-koeln.de 
-christian.noss@th-koeln.de 
-
-stefan.bente@th-koeln.de 
-mirjam.bluemm@th-koeln.de
-
-dietlind.zuehlke@th-koeln.de
-
-thomas.raser@th-koeln.de 
-simon_ludwig.schulte@th-koeln.de
-simon.porten@th-koeln.de
-
-manfred.stern@th-koeln.de
-
-uwe.muesse@th-koeln.de
-
-christian.kohls@th-koeln.de
-
-
-
-albert.hamidullin@th-koeln.de
-raphaela.groten@th-koeln.de
-ingeborg.rose@th-koeln.de
