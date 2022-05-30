@@ -1,11 +1,13 @@
 # Interview Stundenplanteam
 Dieses Interview bestand aus zwei Teilen, zum einen wurden uns Informationen zu möglichen Projekten in einem Treffen in Präsenz gegeben, zum anderen wurden weitere Fragen in einer Mail beantwortet
 
-## Allgemeine Projektideen (Einführung am 04.05.22)
+## Allgemeine Projektideen
 Anwesend: Studenplanteam (Alex Dobrynin, Uwe Müsse, Dennis Dubbert), Christopher, Benedikt, Tim, Yannic, Marius
 Protokollant: Benedikt
 
-**Main-Outcome: 3 Projekte welche outgesourcet werden können**
+**Datum: 04.05.2022 - 12:00 Uhr**
+
+*Main-Outcome: 3 Projekte vorhanden, welche als P1 an uns outgesourcet werden können*
 ### Stundenplan
 - Ziemlich viele Anforderungen und komplexe Datenstruktur
 - Hier könnten aber selber nochmal neue Anforderungen gesammelt werden
