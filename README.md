@@ -17,9 +17,10 @@
 - 16.05.22 Ganztägig **Designsprint 1** @CampusGM [Protokoll](./protokolle/01_Prot_16-05-22.md) 
 - 18.05.22 14:00 **Bi-Weekly** @ZoomBE [Protokoll](./protokolle/02_Prot_18-05-22.md) 
 - 25.05.22 14:00 **Review** @ZoomCN [Protokoll](./protokolle/03_Prot_25-05-22.md)
-- 01.06.22 14:00 **Bi-Weekly** @ZoomBE [Top4](./protokolle/04_Prot_01-06-22.md)
+- 01.06.22 14:00 **Bi-Weekly** @ZoomBE [Protokoll](./protokolle/04_Prot_01-06-22.md)
 - 08.06.22 14:00 **Review** @ZoomCN
 - 15.06.22 14:00 **Bi-Weekly** @ZoomBE
+- 29.06.22 09:00 - 17:00 **Designsprint 1** @TBA [Protokoll](./protokolle/01_Prot_16-05-22.md) 
 - 29.06.22 14:00 **Bi-Weekly** @ZoomBE
 
 ### ZoomBE
