@@ -1,21 +1,26 @@
 # Interview Stundenplanteam
+
 Dieses Interview bestand aus zwei Teilen, zum einen wurden uns Informationen zu möglichen Projekten in einem Treffen in Präsenz gegeben, zum anderen wurden weitere Fragen in einer Mail beantwortet
 
 ## Allgemeine Projektideen
+
 Anwesend: Studenplanteam (Alex Dobrynin, Uwe Müsse, Dennis Dubbert), Christopher, Benedikt, Tim, Yannic, Marius
 Protokollant: Benedikt
 
 **Datum: 04.05.2022 - 12:00 Uhr**
 
-*Main-Outcome: 3 Projekte vorhanden, welche als P1 an uns outgesourcet werden können*
+_Main-Outcome: 3 Projekte vorhanden, welche als P1 an uns outgesourcet werden können_
+
 ### Stundenplan
+
 - Ziemlich viele Anforderungen und komplexe Datenstruktur
 - Hier könnten aber selber nochmal neue Anforderungen gesammelt werden
 - Hybrid/Präsenz | Blockveranstaltungen | Überschneidungen etc. sind wichtige Themen
 - UI-Focus wäre cool, weil darauf grade nicht der Schwerpunkt liegt
-- HOPS kann nur Anzeige, neues System soll auch Planung können, sodass Professor*innen auch eintragen können (von zentral zu dezentral)
+- HOPS kann nur Anzeige, neues System soll auch Planung können, sodass Professor\*innen auch eintragen können (von zentral zu dezentral)
 
 ### Raumbuchungssystem
+
 - Sehr wenig Gedanken bisher da / am wenigsten erforscht ⇒ Chance am höchsten das es wirklich genutzt wird
 - Hängt auch mit dem Stundenplan & Prüfungen zusammen (auch semesterübergreifend)
 - Möglichkeit mit transponder verwaltung zu koppeln
@@ -40,6 +45,7 @@ Protokollant: Benedikt
 => Viel Freiraum, nur schnittstelle wichtig
 
 ### Git Modulhandbuch (sehr Technisch)
+
 - Eigener Modulhandbuchservice welcher aus Git-Repos zieht
 - Bisher überall verteilt und veraltet
 - Als Quelle der Wahrheit für die Studenplanung (hierfür Hooks)
@@ -59,40 +65,44 @@ Protokollant: Benedikt
 - Technologien sind komplett egal - Schnittstelle wichtiger
 
 ## Weitere Anforderungen aus Mail
-### Anforderungen Raumplanung: 
-- Räume der TH abbilden 
-  - Raumausstattung (Sitzplätze, Tische, Materialien, Beamer etc.) -> Mobiliar beweglich? 
-  - Raumtypen 
-- Rollensystem (unterschiedliche Rechte) 
-  - Rollenauthentifizierung über Keycloak 
-  - Studentengruppen (auch mit Kontingenten) 
-  - Raumabhängig (z.B. Mitarbeiter für Räume in Fächern die sie betreuen) 
-  - Lehrende, Studierende, Administratoren, Mitarbeiter, Angestellte etc. 
-- Zeitkontingente für Studierende (auch studiengang- bzw. fachabhängig) 
-- Unterschiedliche Rechte 
-  - Z.B. Lehrende > Studierende (Können Buchungen überschreiben) 
-- Kalender bzw. Buchungssystem 
-- Auch als Schnittstelle nach außen verfügbar (z.B. für Stunden- und Prüfungsplanung) 
-- Buchungen für Prüfungsplanung 
-- Filtern nach Typ, Ausstattung, Zeit, Rechte etc. 
-- Verschiedene Buchungstypen für unterschiedliche Veranstaltungstypen 
-  - Z.B. Veranstaltung, Externe (Firmen etc.), Studentenbuchung etc. 
-  - Unterscheidung: Dauerbuchung vs. Einzelbuchung 
-- Semesterplan und Feiertage etc. berücksichtigen 
-  - Z.B. Blockwochen 
-- Benachrichtigungssystem 
-  - Hat Buchung geklappt? 
-  - Wurde Buchung überschrieben? 
-  - Ist Zeitkontingent verändert worden? 
-  - Etc. 
- 
-### Nice to have 
-- Rauminformation per Schild-Scanner 
-- Wann gebucht (Kalenderansicht über das Semester) 
-- Art der Buchungen 
-- Was drin (aktuelle Belegung und Ausstattung) 
-- Rechte 
-- Etc.  
 
-### Mögliche Erweiterungen (geringere Prio als Nice to have) 
-- Navigationssystem durch die TH 
+### Anforderungen Raumplanung:
+
+- Räume der TH abbilden
+  - Raumausstattung (Sitzplätze, Tische, Materialien, Beamer etc.) -> Mobiliar beweglich?
+  - Raumtypen
+- Rollensystem (unterschiedliche Rechte)
+  - Rollenauthentifizierung über Keycloak
+  - Studentengruppen (auch mit Kontingenten)
+  - Raumabhängig (z.B. Mitarbeiter für Räume in Fächern die sie betreuen)
+  - Lehrende, Studierende, Administratoren, Mitarbeiter, Angestellte etc.
+- Zeitkontingente für Studierende (auch studiengang- bzw. fachabhängig)
+- Unterschiedliche Rechte
+  - Z.B. Lehrende > Studierende (Können Buchungen überschreiben)
+- Kalender bzw. Buchungssystem
+- Auch als Schnittstelle nach außen verfügbar (z.B. für Stunden- und Prüfungsplanung)
+- Buchungen für Prüfungsplanung
+- Filtern nach Typ, Ausstattung, Zeit, Rechte etc.
+- Verschiedene Buchungstypen für unterschiedliche Veranstaltungstypen
+  - Z.B. Veranstaltung, Externe (Firmen etc.), Studentenbuchung etc.
+  - Unterscheidung: Dauerbuchung vs. Einzelbuchung
+- Semesterplan und Feiertage etc. berücksichtigen
+  - Z.B. Blockwochen
+- Benachrichtigungssystem
+  - Hat Buchung geklappt?
+  - Wurde Buchung überschrieben?
+  - Ist Zeitkontingent verändert worden?
+  - Etc.
+
+### Nice to have
+
+- Rauminformation per Schild-Scanner
+- Wann gebucht (Kalenderansicht über das Semester)
+- Art der Buchungen
+- Was drin (aktuelle Belegung und Ausstattung)
+- Rechte
+- Etc.
+
+### Mögliche Erweiterungen (geringere Prio als Nice to have)
+
+- Navigationssystem durch die TH
