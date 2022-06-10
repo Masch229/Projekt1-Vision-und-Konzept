@@ -1,3 +1,4 @@
+# E-Mail Entwurf an alle Stakeholder
 Sehr geehrte/r Herr/Frau `*Name*`
 
 Das Leben kehrt an die TH Köln am Standort Gummersbach zurück. Immer mehr Module werden wieder in Präsenzlehre angeboten und Gruppen von Studierenden treffen sich wieder vor Ort, um gemeinsam zu lernen oder an Projekten zu arbeiten. Mit dem erhöhten Aufkommen von Studierenden und Hochschulpersonal wird auch das Raummanagement wieder wichtiger.
