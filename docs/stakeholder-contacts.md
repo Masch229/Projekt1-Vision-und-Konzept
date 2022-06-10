@@ -7,7 +7,7 @@ Institutsleitung   | Stephan Bente Mirjam Bluemm | 5      | stefan.bente@th-koel
 Eventorganisation  | Manfred Stern  | 4 | manfred.stern@th-koeln.de | Stern [-]  |  Stern [-]
 Studierende  | Jan Koll  Patrick Albus  Valeria Orlova | 4      | jan.koll@smail.th-koeln.de  patrick.albus@smail.th-koeln.de  	valeria_vladimirovna.orlova@smail.th-koeln.de | Koll [x] Albus [x] Orlova [-]  |  Koll [Interviewed] Albus [Interviewed]
 Studierende Ingenieure  | Noah | 4      | - | Noah [x] |  Noah [Interviewed]
-Prüfungsamt / Prüfungsplaner  | Albert Hamidullin        | 4       | albert.hamidullin@th-koeln.de | Hamidullin [x]  |  Hamidullin [-]
+Prüfungsamt / Prüfungsplaner  | Albert Hamidullin        | 4       | albert.hamidullin@th-koeln.de | Hamidullin [x]  |  Hamidullin [Interviewed]
 Stundenplansystem Entwickler  | Uwe Müsse Alexander Dobrynin Dennis Dubbert | 4       | uwe.muesse@th-koeln.de alexander.dobrynin@th-koeln.de dennis.dubbert@th-koeln.de |  Müsse, Dobrynin, Dubbert [x]  |  Müsse, Dobrynin, Dubbert [Interviewed, E-Mail]
 Dekanat   | Christian Kohls | 3      | christian.kohls@th-koeln.de | Kohls [-]  |  Kohls [-]
 Bibliothek | Fr. Rose | 3       | ingeborg.rose@th-koeln.de |  Rose[x]  |  Rose [Interviewed]
