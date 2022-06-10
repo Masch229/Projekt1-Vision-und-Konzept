@@ -16,9 +16,11 @@ In diesem Ordner werden die Protokolle der Interviews mit den Stakeholdern gesam
 - [Interview P. Albus](./interview-Patrick_Albus-08.07.2022.md)
 - [Interview J. Koll](./interview-Jan_Koll-08.07.2022%20copy%202.md)
 
-### Studierende Ingenieurswesen
+### Studierende Ingenieurswissenschaften
 - [Interview Noah](./interview-Noah_Ingineur-08.07.2022%20copy.md)
-
 
 ### Bibliothek
 - [Interview Frau Rosen](./interview-Rose_Bibliothek-08.07.2022.md)
+
+### Prüfungsplanung
+- [Interview Herr Hamidullin](./interview-Albert_Hamidullin-10.06.22.md)
