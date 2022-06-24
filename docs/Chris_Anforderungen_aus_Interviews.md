@@ -27,12 +27,11 @@
 
 - Parallele Systeme zusammenführen
     - In unserem Fall: Anbindung schaffen
-- Prüfungsarten abbilden können
 - Räume dynamisch freigeben oder buchen
-- Räume für Prüfungszeitraum per default gebucht
+- Räume für Prüfungszeitraum per default buchen
     - Freigabemöglichkeit, wenn weniger Räume benötigt werden
-- Übungsräume (und auch Vorlesungsräume) sind über das Semester belegt mit der entpsrechenden Vorlesung/Übung
-    - Prüfungen/Vorlesungen/Übungen (Pflicht/Dauerveranstaltungen) haben vorrang -> Berechtigungen/Prioritäten
+- Übungsräume (und auch Vorlesungsräume) sind über das Semester belegt mit der entpsrechenden Vorlesungen/Übungen
+    - Prüfungen/Vorlesungen/Übungen (Pflicht-/Dauerveranstaltungen) haben vorrang -> Konzept für Berechtigungen/Prioritäten
 - Informationen über Ressourcen des Raumes in der Übersicht
 - Benachrichtigungskonzept über Räume für externe Personen, die Räume für Veranstaltungen buchen wollen
 - Ansprechpartner der Räume/Pools anzeigen
