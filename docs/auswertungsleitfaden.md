@@ -9,7 +9,7 @@ Die erhaltenen Antworten werden betrachtet und aus diesen sollen formale Anforde
 
 Dabei sollte folgende Satzschablone verwendet werden:
 
-
+![Alt-Text](/docs/assets/SatzTemplate.PNG)
 
 
 Diese wird wie Folgt verwendet:
