@@ -11,7 +11,6 @@
 
 - Es existiert eine Word Datei in der Räume, Transpondernummern und Berechtigte Personen drin stehen. Diese Datei liegt auf einem Rechner an der Pforte. Kommt jemand und möchte einen Transponder, wird mit der Liste abgeglichen und ggf. ausgetragen und ausgegeben.
 
-
 ### Welche Informationen benötigen Sie, um einen passenden Raum (z.B. für Studierende) zu finden/empfehlen? & Was würde Sie bei der Suche nach einem Raum unterstützen?
 
 - Ausstattung, Verfügbarkeit, Größe, Bestuhlung?
