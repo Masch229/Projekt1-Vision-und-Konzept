@@ -9,7 +9,7 @@
 
 ### Hast du schonmal Räume gebucht?
 - nein, wurde vor Ort ein freier Raum gesucht
-    dabei störend ist, dass öfters andere Student*Innen die Tür öffnen, weil sie ebenfalls einen freien Raum suchen
+   - dabei störend ist, dass öfters andere Student*Innen die Tür öffnen, weil sie ebenfalls einen freien Raum suchen
 
 ### wie häufig brauchst du einen Raum?
 - ca. alle 2 Wochen
