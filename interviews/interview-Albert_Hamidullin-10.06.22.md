@@ -9,7 +9,7 @@
 
 ### Input als Prüfungsplaner
 
-- Parallel existierende Systeme gibt es (HOPS)
+- Parallel existierende Systeme gibt es (HOPS, andere)
     - viele Vorgänge manuel und nicht autonom
     - Neue Prüfungsart (Digital) wegen Corona, noch nicht abgebildet
     - System ist Neuerungen nicht gewachsen
@@ -34,7 +34,7 @@
 
 ### Sonstiges
 - Im bezug auf Prüfungs- aber auch Übungsräume bekommt Herr H. Emails:
-    - jemand Externes ist eingeladen für z.B. einen Vortrag und mailed an Hr. H., dass er einen der Hrn. H.  zugewiesenen Räume braucht
+    - jemand Externes ist eingeladen für z.B. einen Vortrag und mailed an Hr. H., dass er einen der Hrn. H. zugewiesenen Räume braucht
     - Hr. H. bestätigt dies oder nicht, Raum ist dann für den Vortrag verfügbar, allerdings ist der Status weiterhin als "geblockt für Übung".
     - langwieriger E-Mail Austausch kann daraus resultieren, wenn Räume nicht verfügbar sind, oder zu groß/klein für den Vortragenden etc.
 - Sekretariat weißt auch Räume zu
