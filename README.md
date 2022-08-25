@@ -22,9 +22,9 @@ Im Rahmen eines hochschulinternen Projekts der _TH Köln_ am Campus Gummersbach 
 | 01.06.22 14:00         | _Bi-Weekly_                    | Zoom BE                                     | [Protokoll](./protokolle/04_Prot_01-06-22.md)          |
 | ~~08.06.22 14:00~~     | ~~Review~~                     | (Ausgefallen, da Interviews geführt wurden) | [Protokoll](./protokolle/05_Prot_08-06-22.md)          |
 | 15.06.22 14:00         | _Review_                       | Zoom C.Noss                                 | [Protokoll](./protokolle/06_Prot_15-06-22.md)          |
-| 22.06.22               | TBA                            | TBA                                         | -                                                      |
-| 29.06.22 09:00 - 17:00 | _Designsprint Tag 2_           | TBA                                         | [Protokoll](./protokolle/07_Prot_29-06-22.md)          |
-|                        |                                |                                             |                                                        |
+| 22.06.22               | _Planung_                      | Zoom BE                                     | [Protokoll](./protokolle/07_Prot_22-06-22.md)          |
+| 29.06.22 09:00 - 17:00 | _Designsprint Tag 2_           | TBA                                         | [Protokoll](./protokolle/08_Prot_29-06-22.md)          |
+| 12.07.22               | _Feedback mit Stundenplan-Team_| Campus GM - Raum: 3204                      | [Protokoll](./protokolle/09_Prot_12-07-22.md)          |
 |                        |                                |                                             |                                                        |
 
 ![Zeitplan](./docs/assets/zeitplan.png)
