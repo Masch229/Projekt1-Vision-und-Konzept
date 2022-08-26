@@ -30,5 +30,5 @@ Bedingungen haben **keine** Hierarchie.
 
 ### Post-Conditions (Auszug)
 
-- `hasEnoughtContigent`: ein Studierender kann beispielsweise nur einen Raum gleichzeitig gleichzeitig Buchen.
+- `hasEnoughtContigent`: ein Studierender kann beispielsweise nur einen Raum gleichzeitig Buchen.
 - `isApprovedByOwner`
