@@ -1,4 +1,4 @@
-# TH Köln // Ressourcenmanagement
+# TH Köln // Raum- und Ressourcenbuchung
 
 Im Rahmen eines hochschulinternen Projekts der _TH Köln_ am Campus Gummersbach sollen Raumbuchungen für Studierende und Lehrende konzeptionell hinterfragt und digitalisiert werden. Dazu wird eine Online-Plattform entwickelt, die unkomplizierte Raumverwaltungsprozesse und Buchungsprozesse implementiert und benutzerfreundlich aufbereitet. Nach der Anforderungsermittlung soll zusätzlich ein Architekturentwurf des Systems und erste Prototypen entwickelt werden. Bei diesen Entwürfen soll eine hohe Gewichtung auf die Nachhaltigkeit des Systems gelegt werden. In der Vergangenheit hat sich an der _TH Köln_ oft gezeigt, dass nicht-nachhaltig geplante Systeme für die Systempflegenden und -nutzenden einen nicht zu vernachlässigenden Mehraufwand erzeugen und damit eine erhöhte Unzufriedenheit einhergeht. Ebenfalls entsteht das Problem, dass Software nach einem kurzen Nutzungszeitraum nur noch schwierig an neue Anforderungen angepasst werden kann. Aus diesem Grund wird bei der Planung und Implementierung eine hohe Gewichtung auf Nachhaltigkeit im ökonomischen Sinn gelegt.
 
