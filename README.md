@@ -1,52 +1,62 @@
-# Projekt 1: Vision und Konzept
+# TH Köln // Raum- und Ressourcenbuchung
 
-## Projektrahmen
+Im Rahmen eines hochschulinternen Projekts der _TH Köln_ am Campus Gummersbach sollen Raumbuchungen für Studierende und Lehrende konzeptionell hinterfragt und digitalisiert werden. Dazu wird eine Online-Plattform entwickelt, die unkomplizierte Raumverwaltungsprozesse und Buchungsprozesse implementiert und benutzerfreundlich aufbereitet. Nach der Anforderungsermittlung soll zusätzlich ein Architekturentwurf des Systems und erste Prototypen entwickelt werden. Bei diesen Entwürfen soll eine hohe Gewichtung auf die Nachhaltigkeit des Systems gelegt werden. In der Vergangenheit hat sich an der _TH Köln_ oft gezeigt, dass nicht-nachhaltig geplante Systeme für die Systempflegenden und -nutzenden einen nicht zu vernachlässigenden Mehraufwand erzeugen und damit eine erhöhte Unzufriedenheit einhergeht. Ebenfalls entsteht das Problem, dass Software nach einem kurzen Nutzungszeitraum nur noch schwierig an neue Anforderungen angepasst werden kann. Aus diesem Grund wird bei der Planung und Implementierung eine hohe Gewichtung auf Nachhaltigkeit im ökonomischen Sinn gelegt.
 
-## Zielsetzung
 
-Im Rahmen eines hochschulinternen Projekts der _TH Köln_ am Campus Gummersbach sollen Raumbuchungen für Studierende und Lehrende konzeptionell hinterfragt und digitalisiert werden. Dazu wird eine Online-Plattform entwickelt, die unkomplizierte Raumverwaltungsprozesse und Buchungsprozesse implementiert und benutzerfreundlich aufbereitet. Nach der Anforderungsermittlung soll zusätzlich ein Architekturentwurf des Systems und erste Prototypen entwickelt werden. Bei diesen Entwürfen soll eine hohe Gewichtung auf die Nachhaltigkeit des Systems gelegt werden. In der Vergangenheit hat sich an der _TH Köln_ oft gezeigt, dass nicht-nachhaltig geplante Systeme für die Systempflegenden und -nutzenden einen nicht zu vernachlässigenden Mehraufwand erzeugen und damit eine erhöhte Unzufriedenheit einhergeht. Ebenfalls entsteht das Problem, dass Software nach einem kurzen Nutzungszeitraum nur noch schwierig an neue Anforderungen angepasst werden kann. Aus diesem Grund wird bei der Planung und Implementierung eine hohe Gewichtung auf Nachhaltigkeit im ökonomischen Sinn gelegt. Daher wird in dieser Ausarbeitung der Begriff der Nachhaltigkeit für dieses Projekt genau definiert, technische und organisatorische Maßnahmen zur Erreichung dieser definiert und Messwerte bestimmt, um die Wirksamkeit der Maßnahmen auch im späteren Verlauf des Software-Lebenszyklus zu gewährleisten.
+## Projektfortschritt
 
-## Inhaltsverzeichnis
+Folgende Abbildung zeigt den Projektfortschritt anhand der Meilensteine und Artefakte. Klicke auf einen Meilenstein um zur jeweiligen Dokumentation und den Ergebnissen zu gelangen.
 
-## Termine
+![Projektforschritt: Stakeholderanalyse beendet am 01.06.2022, User Stories beendet am 19.06.2022, Click-Prototyp beendet am 16.07.2022, Architekturentwurf beendet am 01.08.2022, Datenmodell beendet am 16.07.2022, Präsentation ausstehend bis zum 30.09.2022](./docs/assets/progress-05.png)
 
-| Datum                  | Thema                          | Ort                                         | Protokoll                                              |
-| ---------------------- | ------------------------------ | ------------------------------------------- | ------------------------------------------------------ |
-| 26.04.22 16:30         | _Startschuss_                  | Zoom BE                                     | [Protokoll](./protokolle/00_Prot_26-04-22.md)          |
-| 04.05.22 12:00         | _Meeting mit Stundenplan-Team_ | Campus GM - Raum: 3204                      | [Protokoll](./interviews/interview-Stundenplanteam.md) |
-| 04.05.22 14:00         | _Bi-Weekly_                    | Campus GM                                   | -                                                      |
-| 11.05.22 14:00         | _Review_                       | Zoom C.Noss                                 | -                                                      |
-| 16.05.22 Ganztägig     | _Designsprint Tag 1_           | Campus GM                                   | [Protokoll](./protokolle/01_Prot_16-05-22.md)          |
-| 18.05.22 14:00         | _Bi-Weekly_                    | Zoom BE                                     | [Protokoll](./protokolle/02_Prot_18-05-22.md)          |
-| 25.05.22 14:00         | _Review_                       | Zoom C.Noss                                 | [Protokoll](./protokolle/03_Prot_25-05-22.md)          |
-| 01.06.22 14:00         | _Bi-Weekly_                    | Zoom BE                                     | [Protokoll](./protokolle/04_Prot_01-06-22.md)          |
-| ~~08.06.22 14:00~~     | ~~Review~~                     | (Ausgefallen, da Interviews geführt wurden) | [Protokoll](./protokolle/05_Prot_08-06-22.md)          |
-| 15.06.22 14:00         | _Review_                       | Zoom C.Noss                                 | [Protokoll](./protokolle/06_Prot_15-06-22.md)          |
-| 22.06.22               | _Planung_                      | Zoom BE                                     | [Protokoll](./protokolle/07_Prot_22-06-22.md)          |
-| 29.06.22 09:00 - 17:00 | _Designsprint Tag 2_           | TBA                                         | [Protokoll](./protokolle/08_Prot_29-06-22.md)          |
-| 12.07.22               | _Feedback mit Stundenplan-Team_| Campus GM - Raum: 3204                      | [Protokoll](./protokolle/09_Prot_12-07-22.md)          |
-|                        |                                |                                             |                                                        |
 
-![Zeitplan](./docs/assets/zeitplan.png)
+## Projektdokumentation
 
-### Zoom BE
+Bist du hier um zu schauen, welche Projektergebnisse wie erziehlt wurden? Dann empfehelen wir die die Tour durch unsere Dokumentation. 
 
-```
-https://th-koeln.zoom.us/j/8542457439
+Beginne die Tour [hier](./docs/README.md).
 
-Meeting-ID: 854 245 7439
-Kenncode: pass
-```
 
-## Sonstiges
+## Links zu Projektergebnissen
 
-### Links
+Solltest du nur einen schnellen Blick auf einzelne Artefakte werfen wollen, haben wir dir hier einige Quick Links zusammengesucht. Um zu verstehen, wie diese erarbeitet wurden und für weitere Infos, empfehlen wir dir die [Tour durch die Projektdokumentation](./docs/README.md).
+
+[Stakeholderanalyse]()
+
+[Interviews]()
+
+[User Stories]()
+
+[Architekturentwurf]()
+
+[Datenmodell]()
+
+[Click-Prototyp]()
+
+
+
+## Weitere Links
+
+[Terminübersicht und Protokolle](./docs/terminuebersicht.md)
 
 [Miro Board](https://miro.com/app/board/o9J_kgMy_lc=/) - Brainstorming und Konzepte
 
 [Figma](https://www.figma.com/file/XmxGih73XA6zbU6UN1y1mb/Wireframes?node-id=0%3A1) - Wireframes und Designs
 
-### Ressourcen
 
-[Designsprint](https://koos.github.io/mi-master-vuk/) - Ressourcen Sammlung Jan Kus  
+## Verwendete Ressourcen
+
+[Designsprint](https://koos.github.io/mi-master-vuk/) - Ressourcen Sammlung Jan Kus
+
 [Designsprint](https://designsprintkit.withgoogle.com/methodology/overview) - Google Ressource
+
+
+## Das Projektteam
+
+Yannic Brügger
+
+Benedickt Engel
+
+Tim Loges
+
+Christopher Toth
