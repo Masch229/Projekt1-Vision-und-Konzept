@@ -6,5 +6,5 @@ Da die genauen Anforderung noch nicht eindeutig identifiziert wurden, sollten di
 
 <div style="display: flex; justify-content: space-between;">
   <a href="../projektziel.md">Zurück</a>
-  <a href="../user-stories/README.md">Weiter</a>
+  <a href="../user-stories">Weiter</a>
 </div>

@@ -3,7 +3,7 @@
 # Click-Prototyp
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="../user-stories/README.md">Zurück</a>
-  <a href="../architekturentwurf/README.md">Weiter</a>
+  <a href="../user-stories">Zurück</a>
+  <a href="../architekturentwurf">Weiter</a>
 </div>
 

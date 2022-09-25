@@ -3,6 +3,6 @@
 # User Stories
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="../stakeholderanalyse/README.md">Zurück</a>
-  <a href="../click-prototyp/README.md">Weiter</a>
+  <a href="../stakeholderanalyse">Zurück</a>
+  <a href="../click-prototyp">Weiter</a>
 </div>

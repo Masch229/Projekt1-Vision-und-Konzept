@@ -3,6 +3,6 @@
 # Datenmodell
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="../architekturentwurf/README.md">Zurück</a>
-  <a href="../projektabschluss/README.md">Weiter</a>
+  <a href="../architekturentwurf">Zurück</a>
+  <a href="../projektabschluss">Weiter</a>
 </div>
