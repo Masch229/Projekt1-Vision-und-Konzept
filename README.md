@@ -8,7 +8,15 @@ Folgende Abbildung zeigt den Projektfortschritt anhand der Meilensteine und Arte
 
 ![Projektforschritt: Stakeholderanalyse beendet am 01.06.2022, User Stories beendet am 19.06.2022, Click-Prototyp beendet am 16.07.2022, Architekturentwurf beendet am 01.08.2022, Datenmodell beendet am 16.07.2022, Präsentation ausstehend bis zum 30.09.2022](./docs/assets/progress-05.png)
 
+## Projektdokumentation
+
+Bist du hier um zu schauen, welche Projektergebnisse wie erziehlt wurden? Dann empfehelen wir die die Tour durch unsere Dokumentation. 
+
+Beginne die Tour [hier](./docs/README.md).
+
 ## Quick Links
+
+Solltest du nur einen schnellen Blick auf einzelne Artefakte, Dateien oder externe Seiten werfen wollen, haben wir dir hier einige Quick Links zusammengesucht.
 
 [Terminübersicht und Protokolle](./docs/terminuebersicht.md)
 
