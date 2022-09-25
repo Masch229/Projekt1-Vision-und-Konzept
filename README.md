@@ -11,13 +11,18 @@ Folgende Abbildung zeigt den Projektfortschritt anhand der Meilensteine und Arte
 ## Quick Links
 
 [Terminübersicht und Protokolle](./docs/terminuebersicht.md)
+
 [Click-Prototyp]()
+
 [Miro Board](https://miro.com/app/board/o9J_kgMy_lc=/) - Brainstorming und Konzepte
+
 [Figma](https://www.figma.com/file/XmxGih73XA6zbU6UN1y1mb/Wireframes?node-id=0%3A1) - Wireframes und Designs
+
 
 ## Verwendete Ressourcen
 
-[Designsprint](https://koos.github.io/mi-master-vuk/) - Ressourcen Sammlung Jan Kus  
+[Designsprint](https://koos.github.io/mi-master-vuk/) - Ressourcen Sammlung Jan Kus
+
 [Designsprint](https://designsprintkit.withgoogle.com/methodology/overview) - Google Ressource
 
 ## Das Projektteam
