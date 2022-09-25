@@ -19,13 +19,20 @@ Beginne die Tour [hier](./docs/README.md).
 
 ## Links zu Projektergebnissen
 
-Solltest du nur einen schnellen Blick auf einzelne Artefakte, Dateien oder externe Seiten werfen wollen, haben wir dir hier einige Quick Links zusammengesucht.
+Solltest du nur einen schnellen Blick auf einzelne Artefakte werfen wollen, haben wir dir hier einige Quick Links zusammengesucht. Um zu verstehen, wie diese erarbeitet wurden und für weitere Infos, empfehlen wir dir [Tour durch die Projektdokumentation](./docs/README.md).
+
+[Stakeholderanalyse]()
+
+[Interviews]()
+
+[User Stories]()
 
 [Architekturentwurf]()
+
+[Datenmodell]()
 
 [Click-Prototyp]()
 
-[Architekturentwurf]()
 
 
 ## Weitere Links
