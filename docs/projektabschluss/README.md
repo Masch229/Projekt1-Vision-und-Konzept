@@ -4,5 +4,5 @@
 
 <div style="display: flex; justify-content: space-between;">
   <a href="../datenmodell/README.md">Zurück</a>
-  <a href="../datenmodell/README.md">Weiter</a>
+  <a href="../README.md">Zurück zur Tour-Übersicht</a>
 </div>
