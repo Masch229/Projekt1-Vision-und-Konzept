@@ -10,8 +10,7 @@ Herzlich Willkommen, bei der Tour durch die Projektdokumentation. Die Tour begin
  | 4. Interviews | Die Stakeholderinterviews wurden vorbereitet, geplant, durchgeführt und ausgewertet. Doe Projektdokumentation bschreibt hier die Vorgehnsweise und Ergebnisse der einzelnen Schritte. |
  | 5. User Stories | Aus den Interviews ergaben sich Anforderungen der Benutzerrollen. Um diese Ergebnisse festzuhalten wurden User Stories verfasst. |
  | 6. Click-Prototyp | Aus den User Stories ergaben sich eindeutige Anforderungen an das System. Um diese Anforderungen für das Projektteam und Dritte zu visualisieren, wurde ein Click-Prototyp entworfen. |
- | 7. Architekturentwurf | Nachdem alle ein Verständnis für die Funktionalität des System hatten, musste eine passende Architektur gefunden werden, in der diese Funktionen umgesetzt werden können. Dabei wurde explizit auf ökonomische Nachhaltigkeit geachtet. |
- | 8. Kommunikationskonzept | Die einzelnen Komponenten der Anwendung wurden mit dem Architekturentwurf definiert. Ordentlich nutzbar werden diese Komponenten aber erst, wenn sie miteinander Kommunizieren. |
- | 9. Datenmodell / Datenhaltung | Kommunikation alleine reicht nicht aus, um alle Funktionalitäten abzubilden. Manche Komponenten müssen dafür über eine interne Datenhaltung verfügen. Wie genau die Daten aussehen, wird im Datenmodell beschrieben. |
- | 10. Projektabschluss | Nachdem alle Artefakte erarbeitet wurden, müssen die Proijektergebnisse uafgearbietet werden. Das passiert zum einen in einer 5-minütigen Projektpräsentation und der Projektdokumentation. |
- | 11. Ausblick | Wie geht es weiter? |
+ | 7. Architekturentwurf | Nachdem alle ein Verständnis für die Funktionalität des System hatten, musste eine passende Architektur gefunden werden, in der diese Funktionen umgesetzt werden können. Es wurden Komponenten definiert und wie diese miteinander Kommunizieren. Dabei wurde explizit auf ökonomische Nachhaltigkeit geachtet. |
+ | 8. Datenmodell / Datenhaltung | Kommunikation alleine reicht nicht aus, um alle Funktionalitäten abzubilden. Manche Komponenten müssen dafür über eine interne Datenhaltung verfügen. Wie genau die Daten aussehen, wird im Datenmodell beschrieben. |
+ | 9. Projektabschluss | Nachdem alle Artefakte erarbeitet wurden, müssen die Proijektergebnisse uafgearbietet werden. Das passiert zum einen in einer 5-minütigen Projektpräsentation und der Projektdokumentation. |
+ | 10. Ausblick | Wie geht es weiter? |
