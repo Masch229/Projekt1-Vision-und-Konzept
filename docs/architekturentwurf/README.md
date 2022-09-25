@@ -2,6 +2,7 @@
 
 # Architekturentwurf
 
-[Zurück](../click-prototyp/README.md)
-
-[Weiter](../datenmodell/README.md)
+<div>
+  <a href="../projektziel.md">Zurück</a>
+  <a href="../user-stories/README.md" style="float: right;">Weiter</a>
+</div>
