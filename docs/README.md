@@ -3,7 +3,7 @@
 Herzlich Willkommen, bei der Tour durch die Projektdokumentation. Die Tour beginnt üblicherweise beim Projektkontext, in dem wir dir die Umstände erläutern, unter denen das Projekt durchgeführt wurde. Solltest du an einem späteren Zeitpunkt der Tour einsteigen wollen, verwendet dafür am besten die folgende Übersicht.
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="../../README.md">Zurück zum Repository</a>
+  <a href="../README.md">Zurück zum Repository</a>
   <a href="./projektkontext.md">Tour beginnen</a>
 </div>
 
