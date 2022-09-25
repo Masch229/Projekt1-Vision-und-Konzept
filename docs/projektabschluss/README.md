@@ -3,6 +3,6 @@
 # Prokjektabschluss
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="../datenmodell/README.md">Zurück</a>
-  <a href="../README.md">Zurück zur Tour-Übersicht</a>
+  <a href="../datenmodell">Zurück</a>
+  <a href="../ausblick.md">Weiter</a>
 </div>
