@@ -2,6 +2,7 @@
 
 # Datenmodell
 
-[Zurück](../architekturentwurf/README.md)
-
-[Weiter](../projektabschluss/README.md)
+<div style="display: flex; justify-content: space-between;">
+  <a href="../architekturentwurf/README.md">Zurück</a>
+  <a href="../projektabschluss/README.md">Weiter</a>
+</div>

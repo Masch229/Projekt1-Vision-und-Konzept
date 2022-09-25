@@ -2,6 +2,7 @@
 
 # User Stories
 
-[Zurück](../stakeholderanalyse/README.md)
-
-[Weiter](../click-prototyp/README.md)
+<div style="display: flex; justify-content: space-between;">
+  <a href="../stakeholderanalyse/README.md">Zurück</a>
+  <a href="../click-prototyp/README.md">Weiter</a>
+</div>

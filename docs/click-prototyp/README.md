@@ -2,6 +2,8 @@
 
 # Click-Prototyp
 
-[Zurück](../user-stories/README.md)
+<div style="display: flex; justify-content: space-between;">
+  <a href="../user-stories/README.md">Zurück</a>
+  <a href="../architekturentwurf/README.md">Weiter</a>
+</div>
 
-[Weiter](../architekturentwurf/README.md)

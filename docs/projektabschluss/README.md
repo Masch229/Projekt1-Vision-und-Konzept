@@ -2,4 +2,7 @@
 
 # Prokjektabschluss
 
-[Zurück](../datenmodell/README.md)
+<div style="display: flex; justify-content: space-between;">
+  <a href="../datenmodell/README.md">Zurück</a>
+  <a href="../datenmodell/README.md">Weiter</a>
+</div>

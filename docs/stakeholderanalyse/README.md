@@ -4,6 +4,7 @@
 
 Da die genauen Anforderung noch nicht eindeutig identifiziert wurden, sollten diese durch Interviews herausgearbeitet werden. Um zu identifizieren, wer interessante Interviewpartner:innen sind, wurde eine Stakeholderanalyse durchgeführt.
 
-[Zurück](../projektziel.md)
-
-[Weiter](../user-stories/README.md)
+<div style="display: flex; justify-content: space-between;">
+  <a href="../projektziel.md">Zurück</a>
+  <a href="../user-stories/README.md">Weiter</a>
+</div>
