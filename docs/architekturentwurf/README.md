@@ -4,5 +4,5 @@
 
 <div>
   <a href="../projektziel.md">Zurück</a>
-  <a href="../user-stories/README.md" style="float: right;">Weiter</a>
+  <a href="../datenmodell/README.md" style="float: right;">Weiter</a>
 </div>
