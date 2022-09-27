@@ -21,17 +21,19 @@ Beginne die Tour [hier](./docs/README.md).
 
 Solltest du nur einen schnellen Blick auf einzelne Artefakte werfen wollen, haben wir dir hier einige Quick Links zusammengesucht. Um zu verstehen, wie diese erarbeitet wurden und für weitere Infos, empfehlen wir dir die [Tour durch die Projektdokumentation](./docs/README.md).
 
-[Stakeholderanalyse]()
+[Stakeholderanalyse](./docs/stakeholderanalyse)
 
-[Interviews]()
+[Interviews](./interviews)
 
-[User Stories]()
+[Anforderungen](./docs/anforderungen.md)
 
-[Architekturentwurf]()
+[User Stories](./docs/user-stories)
 
-[Datenmodell]()
+[Architekturentwurf](./docs/architekturentwurf)
 
-[Click-Prototyp]()
+[Datenmodell](./docs/datenmodell)
+
+[Click-Prototyp](./docs/click-prototyp)
 
 
 
@@ -60,3 +62,5 @@ Benedickt Engel
 Tim Loges
 
 Christopher Toth
+
+Marius Scherff
