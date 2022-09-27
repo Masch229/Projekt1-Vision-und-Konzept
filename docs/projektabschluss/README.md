@@ -3,8 +3,6 @@
 # Prokjektabschluss
 
 <div style="display: flex; justify-content: space-between;">
-
-[Zurück](../datenmodell)
-[Weiter](../ausblick.md)
-
+  <a href="../datenmodell">Zurück</a>
+  <a href="../ausblick">Weiter</a>
 </div>

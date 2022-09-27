@@ -5,6 +5,6 @@
 Da die genauen Anforderung noch nicht eindeutig identifiziert wurden, sollten diese durch Interviews herausgearbeitet werden. Um zu identifizieren, wer interessante Interviewpartner:innen sind, wurde eine Stakeholderanalyse durchgeführt.
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="../projektziel.md">Zurück</a>
+  <a href="../projektziel">Zurück</a>
   <a href="../user-stories">Weiter</a>
 </div>

@@ -3,6 +3,6 @@
 # Architekturentwurf
 
 <div>
-  <a href="../projektziel.md">Zurück</a>
+  <a href="../click-prototyp">Zurück</a>
   <a href="../datenmodell" style="float: right;">Weiter</a>
 </div>
