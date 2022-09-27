@@ -25,6 +25,8 @@ Die abgebildeten Komponenten werden in folgender Auflistung erläutert:
 - Der *Booking Service* erlaubt es Identitäten, Buchungen von Ressourcen vorzunehmen. Ressourcen sind entweder Räume samt Ausstattung oder mobiles Equipment.
 - Der *Condition Service* implementiert Abfragen, ob eine bestimmte Aktion einer Identität erlaubt oder unerlaubt ist. Ist die Bedingung eine Freigabe durch eine Person, wird diese digital beantragt.  
 
+In einer zweiten Iteration wurde die Kommunikation unter den Komponenten definiert. Dabei wurde auch die Kommunikationsrichtung hinausgearbeitet. Komponenten, die einen Service anbieten, kennen nicht die konsumierenden Komponenten. So kann eine lose Kopplung erzielt werden.
+
 ![Kommunikationskonzept](../assets/architektur-kommunikation.png)
 
 <div>
