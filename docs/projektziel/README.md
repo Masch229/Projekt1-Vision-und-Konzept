@@ -19,6 +19,10 @@ Anhand dieser Artefakte soll in einem weiteren Projekt eine schnelle Umsetzung e
 
 Eine genauere Aufstellung des Scopes und welche Artefakte es nicht mehr in den Rahmen des Projektes geschafft haben kann [hier](./scope-und-out_of_scope.md) nachgelesen werden. 
 
+Bei der Konzeption soll besonderes Augenmerk auf die Nachhaltigkeit des Systems und der Implementation gelegt werden. In folgendem Poster wurde das Thema Nachhaltigkeit in der Softwareentwicklung genauer definiert und für dieses Projekt herausgearbeitet. Es dient als Begleitdokument und Leitfaden für die Konzeption und soll anschließend auch in der Umsetzung beachtet werden.
+
+![poster sustainability](../assets/sustainability-poster.png)
+
 <div style="display: flex; justify-content: space-between;">
   <a href="../projektkontext">Zurück</a>
   <a href="../stakeholderanalyse">Weiter</a>
