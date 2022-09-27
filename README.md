@@ -5,14 +5,15 @@ Im Rahmen eines hochschulinternen Projekts der _TH Köln_ am Campus Gummersbach 
 
 ## Projektfortschritt
 
-Folgende Abbildung zeigt den Projektfortschritt anhand der Meilensteine und Artefakte. Klicke auf einen Meilenstein um zur jeweiligen Dokumentation und den Ergebnissen zu gelangen.
+Folgende Abbildung zeigt den Projektfortschritt anhand der Meilensteine und Artefakte. Zudem gibt diese den zeitlichen Ablauf der Konzeption der Anwendung wieder.
 
 ![Projektforschritt: Stakeholderanalyse beendet am 01.06.2022, User Stories beendet am 19.06.2022, Click-Prototyp beendet am 16.07.2022, Architekturentwurf beendet am 01.08.2022, Datenmodell beendet am 16.07.2022, Präsentation ausstehend bis zum 30.09.2022](./docs/assets/progress-05.png)
 
+Um die einzelnen Meilensteine und die Artefakterstellung zu planen fanden einige Weeklys und Besprechungen statt, alles dazu kannst du dir in unserer [Terminübersicht und Protokollen](./docs/terminuebersicht.md) nachvollziehen.
 
 ## Projektdokumentation
 
-Bist du hier um zu schauen, welche Projektergebnisse wie erziehlt wurden? Dann empfehelen wir die die Tour durch unsere Dokumentation. 
+Bist du hier um zu schauen, welche Projektergebnisse wie erzielt wurden? Dann empfehlen wir die die Tour durch unsere Dokumentation. 
 
 Beginne die Tour [hier](./docs/README.md).
 
@@ -21,23 +22,26 @@ Beginne die Tour [hier](./docs/README.md).
 
 Solltest du nur einen schnellen Blick auf einzelne Artefakte werfen wollen, haben wir dir hier einige Quick Links zusammengesucht. Um zu verstehen, wie diese erarbeitet wurden und für weitere Infos, empfehlen wir dir die [Tour durch die Projektdokumentation](./docs/README.md).
 
-[Stakeholderanalyse]()
+[Stakeholderanalyse](./docs/stakeholderanalyse)
 
-[Interviews]()
+[Interviews](./interviews)
 
-[User Stories]()
+[Personae](./docs/user-stories/personae.md)
 
-[Architekturentwurf]()
+[Anforderungen](./docs/anforderungen.md)
 
-[Datenmodell]()
+[User Stories](./docs/user-stories)
 
-[Click-Prototyp]()
+[Architekturentwurf](./docs/architekturentwurf)
 
+[Datenmodell](./docs/datenmodell)
+
+[Click-Prototyp](./docs/click-prototyp)
 
 
 ## Weitere Links
 
-[Terminübersicht und Protokolle](./docs/terminuebersicht.md)
+Neben den Projektartefakten, welche hier im Repository zu finden sind, kannst du dir auch unsere Brainstorming-Boards und Wireframes anschauen:
 
 [Miro Board](https://miro.com/app/board/o9J_kgMy_lc=/) - Brainstorming und Konzepte
 
@@ -60,3 +64,5 @@ Benedickt Engel
 Tim Loges
 
 Christopher Toth
+
+Marius Scherff

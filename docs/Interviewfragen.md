@@ -2,7 +2,7 @@
 
 Nachfolgend werden alle relevanten Fragen gesammelt, diese sind in die Kategorien **Offene** und **Geschlossene** Fragen unterteilt.
 Für das Interview sind 20 Minuten vorgesehen. Eine Strukturelle Empfehlung und eine nicht-verpflichtende Auswahl passender Fragen 
-finden sich unter **Interview Strukturplan**
+finden sich unter **Strukturplan**
 
 
 ## Interviewfragen 
@@ -29,14 +29,14 @@ finden sich unter **Interview Strukturplan**
 - Hatten Sie breites das Problem einen Arbeitsraum mit passenden Ressourcen zu finden?
 
 
-##Interview Strukturplan
+## Strukturplan
 
-###Dauer: ca. 20min
+**Dauer:** ca. 20min
 
-###Einführung in das Thema: ca. 5min
+### Einführung in das Thema (ca. 5min)
+Kurze Vorstellung des Projekts und des Projektkontexts.
 
-
-###Offene Fragen: ca. 10min
+### Offene Fragen (ca. 10min)
 
 Empfohlene Fragen:
 
@@ -45,7 +45,7 @@ Empfohlene Fragen:
 - Was würde Sie bei der Suche nach einem Raum unterstützen?
 - Was wäre für Sie wichtig, um mit einem Raumbuchungssystem zu interagieren?
 
-###Geschlossene Fagen: ca. 5min
+### Geschlossene Fagen (ca. 5min)
 
 Empfohlene Fragen:
 

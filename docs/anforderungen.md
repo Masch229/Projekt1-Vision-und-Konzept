@@ -1,5 +1,8 @@
 # Anforderungen an die Ressourcenplanung
 
+In diesem Dokument wurden die Anforderungen, welche aus den einzelnen Interviews resultierten zusammengefasst, die einzelnen Anforderungen finden sich [in der Interviewübersicht](../interviews/README.md) unter der Verlinkung `Auswertung`.
+Ebenso wie in den einzelnen Interview-Auswertungen wurde wieder das Anforderungstemplate genutzt, welches im [Auswertungsleitfaden](./auswertungsleitfaden.md) vorgestellt wurde.
+
 ## Prio 1 (Muss)
 
   1. Wenn Nutzende(Lehrende, Institutsleitung) einen Raum ausgewählt haben und dieser blockiert ist, muss das System anzeigen wer diesen blockiert hat.
