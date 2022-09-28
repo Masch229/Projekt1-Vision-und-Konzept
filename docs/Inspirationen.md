@@ -16,4 +16,3 @@ https://heimkino-partner.de/produkte/evoko-liso-raumbuchungssystem/
 
 ## Gedanken
 - Benachrichtigungen über Räume, wenn sie z.B. wieder verfügbar sind. Warteschlagen für Räume.
-- 

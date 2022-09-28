@@ -2,18 +2,17 @@
 
 Im Rahmen eines hochschulinternen Projekts der _TH Köln_ am Campus Gummersbach sollen Raumbuchungen für Studierende und Lehrende konzeptionell hinterfragt und digitalisiert werden. Dazu wird eine Online-Plattform entwickelt, die unkomplizierte Raumverwaltungsprozesse und Buchungsprozesse implementiert und benutzerfreundlich aufbereitet. Nach der Anforderungsermittlung soll zusätzlich ein Architekturentwurf des Systems und erste Prototypen entwickelt werden. Bei diesen Entwürfen soll eine hohe Gewichtung auf die Nachhaltigkeit des Systems gelegt werden. In der Vergangenheit hat sich an der _TH Köln_ oft gezeigt, dass nicht-nachhaltig geplante Systeme für die Systempflegenden und -nutzenden einen nicht zu vernachlässigenden Mehraufwand erzeugen und damit eine erhöhte Unzufriedenheit einhergeht. Ebenfalls entsteht das Problem, dass Software nach einem kurzen Nutzungszeitraum nur noch schwierig an neue Anforderungen angepasst werden kann. Aus diesem Grund wird bei der Planung und Implementierung eine hohe Gewichtung auf Nachhaltigkeit im ökonomischen Sinn gelegt.
 
-
 ## Projektfortschritt
 
 Folgende Abbildung zeigt den Projektfortschritt anhand der Meilensteine und Artefakte. Zudem gibt diese den zeitlichen Ablauf der Konzeption der Anwendung wieder.
 
 ![Projektforschritt: Stakeholderanalyse beendet am 01.06.2022, User Stories beendet am 19.06.2022, Click-Prototyp beendet am 16.07.2022, Architekturentwurf beendet am 01.08.2022, Datenmodell beendet am 16.07.2022, Präsentation ausstehend bis zum 30.09.2022](./docs/assets/progress-05.png)
 
-Um die einzelnen Meilensteine und die Artefakterstellung zu planen fanden einige Weeklys und Besprechungen statt, alles dazu kannst du dir in unserer [Terminübersicht und Protokollen](./docs/terminuebersicht.md) nachvollziehen.
+Um die einzelnen Meilensteine und die Artefakterstellung zu planen fanden einige Weeklys und Besprechungen statt, alles dazu kannst du in unserer [Terminübersicht und Protokollen](./docs/terminuebersicht.md) nachvollziehen.
 
 ## Projektdokumentation
 
-Bist du hier um zu schauen, welche Projektergebnisse wie erzielt wurden? Dann empfehlen wir die die Tour durch unsere Dokumentation. 
+Bist du hier um zu schauen, welche Projektergebnisse wie erzielt wurden? Dann empfehlen wir dir die Tour durch unsere Dokumentation. 
 
 Beginne die Tour [hier](./docs/README.md).
 

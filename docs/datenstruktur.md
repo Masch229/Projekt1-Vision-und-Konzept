@@ -20,7 +20,7 @@ bookingConditions: Condition[]
 ```
 
 ### Condition
-Bspw. muss bestimmte Role haben, eine woche zuvor buchen, buchung bestätigen, first come first serve, windhund
+Bspw. muss bestimmte Rolle haben, eine Woche zuvor buchen, Buchung bestätigen, first come first serve, Windhundprinzip
 ```js
 name: String
 ```

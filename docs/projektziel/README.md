@@ -8,7 +8,7 @@
 
 # Projektziel
 
-Ziel des Projekts ist hierbei die Konzeption der Anwendung welche für die Raum- und Ressourcenbuchung genutzt werden kann. Diese Konzeption unterteilt sich in einige Projektziele und-artefakte:
+Ziel des Projekts ist hierbei die Konzeption der Anwendung, welche für die Raum- und Ressourcenbuchung genutzt werden kann. Diese Konzeption unterteilt sich in einige Projektziele und-artefakte:
 
 - Stakeholderanalyse (Mögliche Nutzende analysieren und verstehen)
 - Anforderungsanalyse (Welche funktionen benötigt die Anwendung)
@@ -17,7 +17,7 @@ Ziel des Projekts ist hierbei die Konzeption der Anwendung welche für die Raum-
 
 Anhand dieser Artefakte soll in einem weiteren Projekt eine schnelle Umsetzung ermöglicht werden.
 
-Eine genauere Aufstellung des Scopes und welche Artefakte es nicht mehr in den Rahmen des Projektes geschafft haben kann [hier](./scope-und-out_of_scope.md) nachgelesen werden. 
+Eine genauere Aufstellung des Scopes und welche Artefakte es nicht mehr in den Rahmen des Projektes geschafft haben, kann [hier](./scope-und-out_of_scope.md) nachgelesen werden. 
 
 Bei der Konzeption soll besonderes Augenmerk auf die Nachhaltigkeit des Systems und der Implementation gelegt werden. In folgendem Poster wurde das Thema Nachhaltigkeit in der Softwareentwicklung genauer definiert und für dieses Projekt herausgearbeitet. Es dient als Begleitdokument und Leitfaden für die Konzeption und soll anschließend auch in der Umsetzung beachtet werden.
 

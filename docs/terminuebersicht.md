@@ -16,7 +16,7 @@
 | 29.06.22 09:00 - 17:00 | _Designsprint Tag 2_           | TBA                                         | [Protokoll](../protokolle/08_Prot_29-06-22.md)          |
 | 12.07.22               | _Feedback mit Stundenplan-Team_| Campus GM - Raum: 3204                      | [Protokoll](../protokolle/09_Prot_12-07-22.md)          |
 | 10.08.22               | _Weiteres Vorgehen bis Projektabschluss_    |    Zoom BE                     | [Protokoll](../protokolle/10_Prot_10-08-22.md)          |
-| 10.08.22               | _Aufgabenverteilung Projektabschluss_       |    Zoom BE                     | [Protokoll](../protokolle/11_Prot_15-09-22.md)          |
+| 15.09.22               | _Aufgabenverteilung Projektabschluss_       |    Zoom BE                     | [Protokoll](../protokolle/11_Prot_15-09-22.md)          |
 
 ## Meeting-Zugang
 
