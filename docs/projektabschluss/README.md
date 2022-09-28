@@ -23,5 +23,5 @@ Viel Erfolg!
 
 <div style="display: flex; justify-content: space-between;">
   <a href="../datenmodell">Zurück</a>
-  <a href="../">Weiter</a>
+  <a href="../">Zum Inhaltsverzeichnis</a>
 </div>
