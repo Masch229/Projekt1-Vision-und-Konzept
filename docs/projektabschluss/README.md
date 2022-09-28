@@ -12,5 +12,5 @@
 
 <div style="display: flex; justify-content: space-between;">
   <a href="../datenmodell">Zurück</a>
-  <a href="../ausblick">Weiter</a>
+  <a href="../ausblick.md">Weiter</a>
 </div>
