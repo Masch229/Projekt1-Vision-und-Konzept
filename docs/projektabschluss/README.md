@@ -6,7 +6,7 @@
 </div>
 
 
-# Prokjektabschluss & Ausblick
+# Projektabschluss & Ausblick
 
 Dieses Projekt wird mit der Präsentation beim Medieninformatik-Kickoff zum Wintersemester 22/23 am Freitag, den 30.09.2022 abgeschlossen. Falls du diese Präsentation nicht gesehen hast findest du hier eine kleine [Video-Zusammenfassung](https://th-koeln.sciebo.de/s/Q4MXj2PstZoXlxS). 
 
