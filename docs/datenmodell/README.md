@@ -24,7 +24,7 @@ Der Booking Service verwaltet ausschließlich Buchungen von Ressourcen. Alle wei
 
 ## Equipment Service
 
-Dieser Service verwaltet Ressourcen und Eqipment. Ressourcen sind grundsätzlich alles, was buchbar ist wie Räume oder ein mobiles Whiteboard. Eine Ressource kann über Equipment verfügen wie beispielsweise die Ausstattung eines Raumes. Equipment und Ressourcen können durch weitere dynamische Eigenschaften erweitert werden.
+Dieser Service verwaltet Ressourcen und Equipment. Ressourcen sind grundsätzlich alles, was buchbar ist, wie Räume oder ein mobiles Whiteboard. Eine Ressource kann über Equipment verfügen, wie beispielsweise die Ausstattung eines Raumes. Equipment und Ressourcen können durch weitere dynamische Eigenschaften erweitert werden.
 
 ![Datenmodell Equipment Service](../assets/datenmodell-equipment-service.png)
 

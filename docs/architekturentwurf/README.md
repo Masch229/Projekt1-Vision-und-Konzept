@@ -10,10 +10,10 @@
 
 Bei einem Feedbacktermin mit dem ursprünglichen Projektteam hat sich herausgestellt, dass besonders ein Architekturentwurf und die Kommunikation zwischen den Komponenten für eine spätere Implementierung hilfreich sein werden.
 
-Um ökonimische Nachhaltigkeit zu gewährleisten wird ein Architekturparadigma verwendet, das besonders die Eigenschaftem Anpassbarkeit und Skalierbarkeit unterstützt. Üblicherweise wird für diese Anforderungen eine Microservice-Architektur verwendet.
+Um ökonimische Nachhaltigkeit zu gewährleisten wird ein Architekturparadigma verwendet, das besonders die Eigenschaften Anpassbarkeit und Skalierbarkeit unterstützt. Üblicherweise wird für diese Anforderungen eine Microservice-Architektur verwendet.
 
-Jede Komponente kann über eigene Benutzeroberflächen verfügen oder APIs als Schnittstellen zu seperaten Benutzeroberflächen anbieten. Um ein einheitliches 
-Der Architketurentwurf unterschiedet zwischen drei Kategorien. Die Kategorie *IT Landscape* (blau) beschreibt Services, die übergreifend in der TH Verwendet werden und gegebenenfalls schon bestehen. Die zweite Kategorie *Booking Platform* beinhaltet alle Komponenten, die dediziert für das Projekt geschaffen werden. Diese können aber zukünftig auch von anderen Anwendungen konsumiert werden. In der letzten Kategorie *UI* werden Komponenten deiniert, die als Benutzeroberfläche direkt von den Anwender:innen verwendet werden können und alle Funktionalitäten des Systems bereitstellen.
+Jede Komponente kann über eigene Benutzeroberflächen verfügen oder APIs als Schnittstellen zu seperaten Benutzeroberflächen anbieten. 
+Der Architketurentwurf unterschiedet zwischen drei Kategorien. Die Kategorie *IT Landscape* (blau) beschreibt Services, die übergreifend in der TH Verwendet werden und gegebenenfalls schon bestehen. Die zweite Kategorie *Booking Platform* beinhaltet alle Komponenten, die dediziert für das Projekt geschaffen werden. Diese können aber zukünftig auch von anderen Anwendungen konsumiert werden. In der letzten Kategorie *UI* werden Komponenten definiert, die als Benutzeroberfläche direkt von den Anwender:innen verwendet werden können und alle Funktionalitäten des Systems bereitstellen.
 
 ![Architekturentwurf aufgeteilt in drei Kategorien. Die Kategorie IT Landscape beinhaltet die übergreifenden (ggf. schon bestehenden) Komponenten Transponder Management, Identity Management, Notification Service. Die zweite Kategorie Booking Platform beinhaltet die Komponenten Condition Service, Search and Recommendation Service, Resource and Equipment Service, Booking Service, Location Service und ggf. ein zusätzlicher Identity Service als Middleware. Zusätzlich soll es zwei UI Komponenten geben. Admin UI und Booking UI.](../assets/architektur-grobentwurf.png)
 

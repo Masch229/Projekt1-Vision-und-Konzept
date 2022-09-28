@@ -16,7 +16,7 @@ Hierfür wurden alle möglichen Nutzenden des Systems analysiert. Desweiteren wu
 
 ## Interviews
 
-Daraufhin wurden Kontakte für die jeweiligen Stakeholder gesammelt um möglichst viele dieser zu interviewen. Außerdem wurden sowohl Interviewfragen aufgestellt, als auch ein Interviewleitfaden, welchere den groben Ablauf festlegte. Beides ist [hier](../Interviewfragen.md) zu finden.
+Daraufhin wurden Kontakte für die jeweiligen Stakeholder gesammelt um möglichst viele dieser zu interviewen. Außerdem wurden sowohl Interviewfragen aufgestellt, als auch ein Interviewleitfaden, welcher den groben Ablauf festlegte. Beides ist [hier](../Interviewfragen.md) zu finden.
 
 ## Interviewergebnisse
 

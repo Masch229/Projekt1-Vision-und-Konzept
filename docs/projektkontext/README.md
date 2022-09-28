@@ -11,7 +11,7 @@ Lehrende benötigen Räume für Vorlesungen oder Seminare. Studierende suchen R�
 
 Im Rahmen eines internen Projektes will die TH Köln diese Planung neu erfinden und verbessern. Dafür wird in der ersten Phase die Anforderungen verschiedener Stakeholder ermittelt und anschließend ein Konzept ausgearbeitet.
 
-Die Ausarbeitung der Vision und eine erste Konzeption wird im Modul *Projekt I: Vision und Konzept* der Masterstudiengänge der TH Köln ausgearbietet. Die Projektidee entspringt dem bisherigen Projektteam aus Prof. Dr. Dietlind Zühlke, Alexander Dobrynin, Dennis Dubbert und Uwe Müsse. Das Konzept wird von den Master-Studierenden Benedickt Engel, Tim Loges, Marius Scherff und Christopher Toth entwickelt und anschließend die Ergebnisse an das Projektteam übergeben.
+Die Ausarbeitung der Vision und eine erste Konzeption wird im Modul *Projekt I: Vision und Konzept* der Masterstudiengänge der TH Köln ausgearbietet. Die Projektidee entspringt dem bisherigen Projektteam aus Prof. Dr. Dietlind Zühlke, Alexander Dobrynin, Dennis Dubbert und Uwe Müsse. Das Konzept wird von den Master-Studierenden Benedickt Engel, Tim Loges, Marius Scherff, Yannic Brügger und Christopher Toth entwickelt und anschließend die Ergebnisse an das Projektteam übergeben.
 
 <div style="display: flex; justify-content: space-between;">
   <a href="..">Zurück</a>
