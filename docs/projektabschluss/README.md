@@ -8,7 +8,9 @@
 
 # Prokjektabschluss & Ausblick
 
-Nach Abschluss unseres Projekts und der Präsentation beim Medieninformatik-Kickoff zum Wintersemester (freitag, 30.09.2022), wird das Projekt voraussichtlich an eine neue Projektgruppe übertragen. Diese Gruppe wird sich im Laufe des Semesters mit der Entwicklung im _Projekt 2: Entwicklung_, befassen und somit unser Konzept in einen ersten Prototyp überführen.
+Dieses Projekt wird mit der Präsentation beim Medieninformatik-Kickoff zum Wintersemester 22/23 am Freitag, den 30.09.2022 abgeschlossen. Falls du diese Präsentation nicht gesehen hast findest du hier eine kleine [Video-Zusammenfassung](https://th-koeln.sciebo.de/s/Q4MXj2PstZoXlxS). 
+
+Danach wird das Projekt voraussichtlich an eine neue Projektgruppe übergeben. Diese Gruppe wird sich im Laufe des Semesters mit der Entwicklung im _Projekt 2: Entwicklung_, befassen und somit unser Konzept in einen ersten Prototyp überführen.
 
 Ziel ist es, die Anwendung später an allen TH-Köln Standorten nutzen zu können, sowohl auf dem Smartphone bzw. Tablet, als auch auf dem PC.
 
@@ -23,4 +25,3 @@ Viel Erfolg!
   <a href="../datenmodell">Zurück</a>
   <a href="../">Weiter</a>
 </div>
-
