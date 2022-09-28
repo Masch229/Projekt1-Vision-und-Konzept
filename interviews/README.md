@@ -6,11 +6,11 @@ Um die Nutzenden des zukonzeptionierenden Systems besser zu verstehen wurden Int
 
 - [Interview C. Noss](./interview-noss-25.05.22.md) | [Auswertung](./auswertung/auswertung-noss.md)
 - [Interview M. Blümm](./interview-bluemm-23.05.22.md) | [Auswertung](./auswertung/auswertung-bluemm.md)
-- [Interview S. Bente](./interview-bente-25.05.22.md) | [Auswertung](./auswertung/) <!-- TODO: wo ist das ding? -->
+- [Interview S. Bente](./interview-bente-25.05.22.md) | [Auswertung](./auswertung/auswertung-bente.md) <!-- TODO: wo ist das ding? -->
 
 ## Wissenschaftliche Mitarbeiter & Campus-Angestellte
 
-- [Interview S. Porten](./interview-porten-25.05.22.md) | [Auswertung](./auswertung/)  <!-- TODO: wo ist das ding? -->
+- [Interview S. Porten](./interview-porten-25.05.22.md) | [Auswertung](./auswertung/auswertung-porten.md)  <!-- TODO: wo ist das ding? -->
 - [Interview Stundenplanteam (A. Dobrynin, U. Müsse, D. Dubbert)](./interview-Stundenplanteam.md) | [Auswertung](./auswertung/auswertung-stundenplanteam.md)
 
 ## Studierende Informatik
