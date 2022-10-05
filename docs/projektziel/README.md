@@ -22,7 +22,7 @@ Eine genauere Aufstellung des Scopes und welche Artefakte es nicht mehr in den R
 Bei der Konzeption soll besonderes Augenmerk auf die Nachhaltigkeit des Systems und der Implementation gelegt werden. In folgendem Poster wurde das Thema Nachhaltigkeit in der Softwareentwicklung genauer definiert und für dieses Projekt herausgearbeitet. Es dient als Begleitdokument und Leitfaden für die Konzeption und soll anschließend auch in der Umsetzung beachtet werden.
 
 [![poster sustainability](../assets/sustainability-poster.png)](../assets/sustainability-poster.pdf)
-Klicke auf das Bidl um zum PDF zu gelangen.
+Klicke auf das Bild, um zum PDF zu gelangen.
 
 <div style="display: flex; justify-content: space-between;">
   <a href="../projektkontext">Zurück</a>
