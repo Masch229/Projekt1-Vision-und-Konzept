@@ -13,8 +13,52 @@ Manche der im Architekturentwurf vorgestellten Komponenten benötigen eine inter
 ## Condition Service
 
 Der Condition Service verfügt über die komplexeste Datenhaltung der Komponenten. Es werden *Conditions* (Bedingungen) verwaltet, die von einem Bedingungstypen sind und über Eingabeparameter verfügen. Eine Bedinung muss einer Ressource zugeordnet werden. Wird aus dem Booking Service eine Buchung für eine Ressource angefragt, wird ein *Check* (Abfrage) im Condition Service erstellt. Diese Abfrage gibt die Parameterwerte an die jeweilen Bedingungen weiter und überprüft den Status. Weitere Informationen über die Conditions finden sie [hier](../ConditionService.md)
+### ERD
 
 ![Datenmodell Condition Service](../assets/datenmodell-conditions-service.png)
+
+### Beispieldaten
+
+**Condition Types (ENUM)**
+
+| name | 
+|--|
+| isRessourceAvailable |
+| isAllowedToBook |
+| isOnTime |
+| maxDuration |
+| hasEnoughtContigent |
+| isApprovedByOwner |
+
+**Parameter**
+
+| condition | name | value | 
+|--|--|--|
+| 2 | allowedRoles | [Student, Prof] |
+| 3 | timeInAdvanceInHours | 24 |
+| 5 | timeInAdvanceInHours | 24 |
+
+**Conditions**
+
+| id | resourceId | conditionTypeId |
+|--|--|--|
+| 1 | THK-GM01-0301 | isRessourceAvailable |
+| 2 | THK-GM01-0301 | isAllowedToBook |
+| 3 | THK-GM01-0301 | isOnTime |
+| 4 | THK-CGN01-0200 | isRessourceAvailable |
+| 5 | THK-CGN01-0200 | isOnTime |
+
+**Checks**
+
+| bookingId | conditionId | status
+|--|--|--|
+| 1 | 1 | met |
+| 1 | 2 | met |
+| 1 | 3 | met |
+| 2 | 4 | met |
+| 2 | 5 | pending |
+
+
 
 ## Booking Service
 
