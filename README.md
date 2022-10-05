@@ -6,7 +6,7 @@ Im Rahmen eines hochschulinternen Projekts der _TH Köln_ am Campus Gummersbach 
 
 Folgende Abbildung zeigt den Projektfortschritt anhand der Meilensteine und Artefakte. Zudem gibt diese den zeitlichen Ablauf der Konzeption der Anwendung wieder.
 
-![Projektforschritt: Stakeholderanalyse beendet am 01.06.2022, User Stories beendet am 19.06.2022, Click-Prototyp beendet am 16.07.2022, Architekturentwurf beendet am 01.08.2022, Datenmodell beendet am 16.07.2022, Präsentation ausstehend bis zum 30.09.2022](./docs/assets/progress-05.png)
+![Projektforschritt: Stakeholderanalyse beendet am 01.06.2022, User Stories beendet am 19.06.2022, Click-Prototyp beendet am 16.07.2022, Architekturentwurf beendet am 01.08.2022, Datenmodell beendet am 16.07.2022, Präsentation abgeschlossen am 30.09.2022](./docs/assets/progress-06.png)
 
 Um die einzelnen Meilensteine und die Artefakterstellung zu planen fanden einige Weeklys und Besprechungen statt, alles dazu kannst du in unserer [Terminübersicht und Protokollen](./docs/terminuebersicht.md) nachvollziehen.
 
