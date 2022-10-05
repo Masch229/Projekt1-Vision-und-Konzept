@@ -13,7 +13,7 @@ Manche der im Architekturentwurf vorgestellten Komponenten benötigen eine inter
 ## Condition Service
 
 Der Condition Service verfügt über die komplexeste Datenhaltung der Komponenten. Es werden *Conditions* (Bedingungen) verwaltet, die von einem Bedingungstypen sind und über Eingabeparameter verfügen. Eine Bedinung muss einer Ressource zugeordnet werden. Wird aus dem Booking Service eine Buchung für eine Ressource angefragt, wird ein *Check* (Abfrage) im Condition Service erstellt. Diese Abfrage gibt die Parameterwerte an die jeweilen Bedingungen weiter und überprüft den Status. Weitere Informationen über die Conditions finden sie [hier](../ConditionService.md)
-### ERD
+### Datenmodell
 
 ![Datenmodell Condition Service](../assets/datenmodell-conditions-service.png)
 
@@ -34,9 +34,9 @@ Der Condition Service verfügt über die komplexeste Datenhaltung der Komponente
 
 | condition | name | value | 
 |--|--|--|
-| 2 | allowedRoles | [Student, Prof] |
-| 3 | timeInAdvanceInHours | 24 |
-| 5 | timeInAdvanceInHours | 24 |
+| 2 | "allowedRoles" | [Student, Prof] |
+| 3 | "timeInAdvanceInHours" | 24 |
+| 5 | "timeInAdvanceInHours" | 24 |
 
 **Conditions**
 
@@ -64,13 +64,66 @@ Der Condition Service verfügt über die komplexeste Datenhaltung der Komponente
 
 Der Booking Service verwaltet ausschließlich Buchungen von Ressourcen. Alle weiteren Informationen werden aus den anderen Services abgefragt und Referenzen auf Datensätzen aus anderen Services abgespeichert.
 
+### Datenmodell
+
 ![Datenmodell Booking Service](../assets/datenmodell-booking-service.png)
+
+### Beispieldaten
+
+| bookingId | resourceId | bookedBy | from | to | status
+|--|--|--|--|--|--|
+| 1 | THK-GM01-0301  | ybruegge |  01.10.2022 12:00 |  01.10.2022 13:00 | booked  |
+| 2 | THK-CGN01-0200 | bengel   |  04.10.2022 09:30 |  01.10.2022 10:30 | pending |
 
 ## Equipment Service
 
 Dieser Service verwaltet Ressourcen und Equipment. Ressourcen sind grundsätzlich alles, was buchbar ist, wie Räume oder ein mobiles Whiteboard. Eine Ressource kann über Equipment verfügen, wie beispielsweise die Ausstattung eines Raumes. Equipment und Ressourcen können durch weitere dynamische Eigenschaften erweitert werden.
 
+### Datenmodell
+
 ![Datenmodell Equipment Service](../assets/datenmodell-equipment-service.png)
+
+### Beispieldaten
+
+**Resource Types**
+
+| name | 
+|--|
+| room |
+| workplace |
+| smartboard |
+
+**Resources**
+
+| resourceId | resourceType | name |
+|--|--|--|
+| 1 | room | "3216 - MI Studio" |
+| 2 | smartboard | "Philips Smartboard" |
+| 3 | workplace | "Workstation 01" |
+
+**Properties**
+
+| resourceId | name | value |
+|--|--|--|
+| 1 | "size" | "25m²" |
+| 1 | "seats" | "50" |
+| 1 | "seatingType" | "loose" |
+| 2 | "size" | "40 inches" |
+| 2 | "brand" | "Microsoft" |
+| 2 | "model" | "Surface Hub Pro 3" |
+| 3 | "software" | "Paint, Word, Gimp" |
+
+**Properties**
+
+| resourceId | name | value |
+|--|--|--|
+| 1 | "size" | "25m²" |
+| 1 | "seats" | "50" |
+| 1 | "seatingType" | "loose" |
+| 2 | "size" | "40 inches" |
+| 2 | "brand" | "Microsoft" |
+| 2 | "model" | "Surface Hub Pro 3" |
+| 3 | "software" | "Paint, Word, Gimp" |
 
 ## Location Service
 
